@@ -7,11 +7,11 @@
 ## Videos Tutoriales 
 - [Introducción a la aplicación Web ]()
 
-------------
+
 
 ## Caracteristicas del Proyecto
 
-------------
+
 - Desarrollo de aplicaciones responsivas
 - Desarrollo de aplicaciones administrativas (Tiendas y Administrador del markerplace). 
 - RESTFUL APIs.
@@ -30,7 +30,7 @@
 
 
 ## Tecnologías 
-------------
+
 - [React.js](https://github.com/Tecsoess/Ebook-React-js/wiki) Actualmente una de las más empleadas para el desarrollo web y mantenida por Facebook.
 - [React-Native](https://reactnative.dev/ "React-Native") Utilizasa para de desarrollar aplicaciones para Android. 
 - [Node.js](https://github.com/Tecsoess/Node/wiki) De gran demanda actual, debido a que es considerada tecnología líder en desarrollo para servidores.
@@ -158,9 +158,9 @@ npm run start:dev
 ```
 
 #  App movil de RecipesApp
-Aplicacion móvil creada en [React-Native](https://reactnative.dev/ "React-Native") para el marketplace  [Beneficio Si](http://tubeneficiosi.com "Beneficio Si")
+Aplicacion móvil creada en [React-Native](https://reactnative.dev/ "React-Native") para el marketplace  [RecipesApp](https://rickrecipes.com/)
 
-![](https://i.imgur.com/L3T8VX5.png)
+![]()
 
 ### Requisitos 
 - [NodeJs](https://nodejs.org/es/download/ "NodeJs")
