@@ -199,7 +199,7 @@ Si descubre alg√∫n problema relacionado con la seguridad, divulgue la informaci√
 
 
 
-##   Indice de Ebooks
+##  :green_book: Indice de Ebooks
 ------------
 
 * [React.js](https://github.com/Tecsoess/Ebook-React-js/wiki) 
@@ -279,6 +279,6 @@ Si descubre alg√∫n problema relacionado con la seguridad, divulgue la informaci√
 	-  [Navicat Version 15 User Guide](https://github.com/Tecsoess/Navicat/wiki/CAPITULO-III:-NAVICAT-VERSION-15-USER-GUIDE "Navicat Version 15 User Guide")
 	
 
-##   [Componentes](https://github.com/RecipesApp2022/RecipesReactcomponents-List)
+##  :rocket: [Componentes](https://github.com/RecipesApp2022/RecipesReactcomponents-List)
 ------------
 * [Frontend del cliente](https://github.com/RecipesApp2022/RecipesReactComponents-Images) 
