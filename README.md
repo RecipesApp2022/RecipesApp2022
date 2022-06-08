@@ -76,14 +76,14 @@
                     
 >Frontend principal para el marketplace [RecipesApp](https://rickrecipes.com/)
 
-`<link>` : <https://github.com/Tecsoess/beneficiosi-clients-front>
+`<link>` : <https://github.com/FJardim/recipes-clients.git>
 
 ### Instalación
 
 
 ```bash
 git clone https://github.com/Tecsoess/beneficiosi-clients-front.git
-cd beneficiosi-clients-front
+cd recipes-clients
 npm install
 cp .env-example .env
 ```
@@ -97,14 +97,14 @@ npm run start
                     
 >Frontend de los vendedores [RecipesApp](https://sellers.rickrecipes.com/)
 
-`<link>` : <https://github.com/Tecsoess/beneficiosi-stores-front>
+`<link>` : <https://github.com/JeyverVegas/recipes-stores.git>
 
 ### Instalación
 
 
 ```bash
-git clone https://github.com/Tecsoess/beneficiosi-stores-front.git
-cd beneficiosi-stores-front
+git clone https://github.com/JeyverVegas/recipes-stores.git
+cd recipes-stores
 npm install
 cp .env-example .env
 ```
@@ -118,14 +118,14 @@ npm run start
                     
 >Frontend de administración para el marketplace [RecipesApp](https://admin.rickrecipes.com/)
 
-`<link>` : <https://github.com/Tecsoess/beneficiosi-admins-front>
+`<link>` : <https://github.com/JeyverVegas/recipes-admin.git>
 
 ### Instalación
 
 
 ```bash
-git clone https://github.com/Tecsoess/beneficiosi-admins-front.git
-cd beneficiosi-admins-front
+git clone https://github.com/JeyverVegas/recipes-admin.git
+cd recipes-admin
 npm install
 cp .env-example .env
 ```
@@ -140,14 +140,14 @@ npm run start
                     
 >API de conexión  para la aplicación [RecipesAPp](https://rickrecipes.com/)
 
-`<link>` : <https://github.com/Tecsoess/beneficiosi-api>
+`<link>` : <https://github.com/ICKillerGH/rickrecipes-api.git>
 
 ### Instalación
 
 
 ```bash
-git clone https://github.com/ICKillerGH/beneficiosi-api.git
-cd beneficiosi-api
+git clone https://github.com/ICKillerGH/rickrecipes-api.git
+cd rickrecipes-api
 npm install
 cp .env-example .env
 ```
