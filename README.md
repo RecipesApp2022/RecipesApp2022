@@ -1,6 +1,6 @@
-#  [RecipesApp](http://tubeneficiosi.com/ "Beneficiosi.com")
+# [RecipesApp](http://tubeneficiosi.com/ "Beneficiosi.com")  
 
-[RecipesApp](http://rickrecipes.com/) es una aplicacion [marketplace](https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_m%C3%B3vil), que cuenta con versiones web y móvil desarrollada principalmente con [React.js](https://es.reactjs.org/ "React.js") Donde usuarios y vendedores comparten y adquieren recetas y planes alimenticios.
+[RecipesApp](http://rickrecipes.com/) :ramen: es una aplicacion [marketplace](https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_m%C3%B3vil), que cuenta con versiones web y móvil desarrollada principalmente con [React.js](https://es.reactjs.org/ "React.js") Donde usuarios y vendedores comparten y adquieren recetas y planes alimenticios.
 
 ![](https://i.imgur.com/i7fpQH2.png)
 
@@ -27,9 +27,6 @@
 - Catálogos de productos con múltiples imágenes de productos, variantes de productos, facetas y búsqueda de texto completo.
 - Pasarela y procesamiento de pagos (Pasarela de pago admitida actualmente - PayPal)
 - Integraciones de proveedores de alimentos de terceros
-
-
-
 
 
 ## Tecnologías 
@@ -195,12 +192,17 @@ react-native run-android
 
 En una configuración de producción, todas las comunicaciones del lado del cliente al lado del servidor (backend, API) deben cifrarse mediante HTTPS/WSS/SSL (API REST, extremo de GraphQL, Socket.io WebSockets, etc.).
 
-Si descubre algún problema relacionado con la seguridad, divulgue la información de manera responsable enviando un correo electrónico a atencionalcliente@beneficiosi.com
+Si descubre algún problema relacionado con la seguridad, divulgue la información de manera responsable enviando un correo electrónico a atencionalcliente@Recipesapp.com
 
 
+##  :rocket: [Componentes](https://github.com/RecipesApp2022/RecipesReactcomponents-List)
+------------
+* [Frontend del cliente](https://github.com/RecipesApp2022/RecipesReactComponents-Images) 
 
 ##  :green_book: Indice de Ebooks
 ------------
+
+
 
 * [React.js](https://github.com/Tecsoess/Ebook-React-js/wiki) 
 	 - [React.js Essentials](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-I:-REACT.JS-ESSENTIALS)
@@ -279,6 +281,3 @@ Si descubre algún problema relacionado con la seguridad, divulgue la informaci�
 	-  [Navicat Version 15 User Guide](https://github.com/Tecsoess/Navicat/wiki/CAPITULO-III:-NAVICAT-VERSION-15-USER-GUIDE "Navicat Version 15 User Guide")
 	
 
-##  :rocket: [Componentes](https://github.com/RecipesApp2022/RecipesReactcomponents-List)
-------------
-* [Frontend del cliente](https://github.com/RecipesApp2022/RecipesReactComponents-Images) 
