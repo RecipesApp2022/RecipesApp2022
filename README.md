@@ -160,7 +160,7 @@ npm run start:dev
 #  App movil de RecipesApp
 Aplicacion móvil creada en [React-Native](https://reactnative.dev/ "React-Native") para el marketplace  [RecipesApp](https://rickrecipes.com/)
 
-![]()
+![](https://i.imgur.com/qckymTg.png)
 
 ### Requisitos 
 - [NodeJs](https://nodejs.org/es/download/ "NodeJs")
