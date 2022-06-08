@@ -119,7 +119,7 @@ npm run start
 
 - ### Administrador
                     
->Frontend de administración para el marketplace [Beneficio Si](http://tubeneficiosi.com "Beneficio Si")
+>Frontend de administración para el marketplace [RecipesApp](https://admin.rickrecipes.com/)
 
 `<link>` : <https://github.com/Tecsoess/beneficiosi-admins-front>
 
@@ -138,10 +138,10 @@ cp .env-example .env
 npm run start
 ```
 
-##  API de Beneficiosi
+##  API de RecipesApp
 
                     
->API de conexión  para el marketplace [Beneficio Si](http://tubeneficiosi.com "Beneficio Si")
+>API de conexión  para la aplicación [RecipesAPp](https://rickrecipes.com/)
 
 `<link>` : <https://github.com/Tecsoess/beneficiosi-api>
 
@@ -160,7 +160,7 @@ cp .env-example .env
 npm run start:dev
 ```
 
-#  App movil de Beneficiosi
+#  App movil de RecipesApp
 Aplicacion móvil creada en [React-Native](https://reactnative.dev/ "React-Native") para el marketplace  [Beneficio Si](http://tubeneficiosi.com "Beneficio Si")
 
 ![](https://i.imgur.com/L3T8VX5.png)
@@ -279,4 +279,6 @@ Si descubre algún problema relacionado con la seguridad, divulgue la informaci�
 	-  [Navicat Version 15 User Guide](https://github.com/Tecsoess/Navicat/wiki/CAPITULO-III:-NAVICAT-VERSION-15-USER-GUIDE "Navicat Version 15 User Guide")
 	
 
-
+##   [Componentes](https://github.com/RecipesApp2022/RecipesReactcomponents-List)
+------------
+* [Frontend del cliente](https://github.com/RecipesApp2022/RecipesReactComponents-Images) 
