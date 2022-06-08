@@ -2,10 +2,10 @@
 
 [RecipesApp](http://rickrecipes.com/) es una aplicacion [marketplace](https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_m%C3%B3vil), que cuenta con versiones web y móvil desarrollada principalmente con [React.js](https://es.reactjs.org/ "React.js") Donde usuarios y vendedores comparten y adquieren recetas y planes alimenticios.
 
-![](https://i.imgur.com/NCqhG5D.jpg)
+![](https://i.imgur.com/i7fpQH2.png)
 
 ## Videos Tutoriales 
-- [Introducción a la aplicación Web ](https://www.youtube.com/watch?v=TzYGaBXAwQc "Introducción a la aplicación Web ")
+- [Introducción a la aplicación Web ]()
 
 ------------
 
@@ -19,14 +19,14 @@
 - Motor de búsqueda.
 - Despliegue en servidor.
 
-## Caracteristicas del Marketplace Beneficiosi
+## Caracteristicas de RecipesApp
 - Plataforma moderna para economía bajo demanda y mercados digitales
 - ¡Todo reactivo, en tiempo real y ultrarrápido!
 - Personalización del sitio web de comercio electrónico de compras para que los clientes realicen compras de alimentos, bienes o servicios a pedido en el navegador
 - Sitio web de administración utilizado para administrar todas las funciones y configuraciones de la plataforma en una interfaz Web
 - Catálogos de productos con múltiples imágenes de productos, variantes de productos, facetas y búsqueda de texto completo.
-- Pasarela y procesamiento de pagos (Pasarela de pago admitida actualmente - Mercado libre)
-- Integraciones de proveedores de envío de terceros
+- Pasarela y procesamiento de pagos (Pasarela de pago admitida actualmente - PayPal)
+- Integraciones de proveedores de alimentos de terceros
 
 
 
@@ -46,15 +46,13 @@
 
 
 ## Detalles del Desarrollo 
-------------
 
-
-###  Marketplace
+###  Aplicacion web
 - 100% responsiva, se adapta a los tamaños de pantallas más comunes.
 - En comunicación con el backend se realizan envíos de correos electrónicos para casos como registro de usuario, olvido de contraseña entre otras opciones.
 - Websocket para notificaciones y chat en tiempo real.
 
-###  Panel de administración de las Tiendas 
+###  Panel de administración de los vendedores 
 - 100% responsiva, se adapta a los tamaños de pantallas más comunes.
 - Control de parámetros y opciones relacionadas con las tiendas del Marketplace.
 - En comunicación con el backend se realizan envíos de correos electrónicos para casos como registro de usuario, olvido de contraseña entre otras opciones.
@@ -75,11 +73,11 @@
 
 
 
-##  Perfiles: Cliente, Tienda y Administrador.
+##  Perfiles: Cliente, Vendedor y Administrador.
 
 - ###  Cliente
                     
->Frontend principal para el marketplace [Beneficio Si](http://tubeneficiosi.com "Beneficio Si")
+>Frontend principal para el marketplace [RecipesApp](https://rickrecipes.com/)
 
 `<link>` : <https://github.com/Tecsoess/beneficiosi-clients-front>
 
@@ -98,9 +96,9 @@ cp .env-example .env
 npm run start
 ```
 
-- ### Tienda
+- ### Vendedor
                     
->Frontend de Tiendas para el marketplace [Beneficio Si](http://tubeneficiosi.com "Beneficio Si")
+>Frontend de los vendedores [RecipesApp](https://sellers.rickrecipes.com/)
 
 `<link>` : <https://github.com/Tecsoess/beneficiosi-stores-front>
 
